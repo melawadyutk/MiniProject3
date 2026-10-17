@@ -1,0 +1,6 @@
+Field;PercentAgree_Pre;PercentAgree_Post;CohenKappa_Pre;CohenKappa_Post;NumDisagreements;NumResolved;MeanResolutionTime_min;Notes
+HasRecovered;90.0;100.0;0.62;1.0;2;2;NA;Both disagreements were data-entry slips on mjohn326 projects (elfi marked No despite 1132 later commits / pyhsmm marked Yes though README says unmaintained). Resolved quickly from the evidence.
+WhyRecovered;100.0;100.0;NA;NA;0;0;NA;No pre-discussion disagreements. Several reasons were short or vague but were accepted as consistent with the commits.
+ActivityPattern;80.0;100.0;0.73;1.0;4;4;NA;Most subjective field (4 of 7 disagreements). The author often read a plot as irregular or steady where the validator saw a long-term decline after a peak. Seasonal was mapped to cyclical to stay within the coding guide.
+Currentstatus;100.0;100.0;1.0;1.0;0;0;NA;Rule-based field (last commit before or after 2025-04-01). Full agreement on all 20 rows (18 Active / 2 Inactive: mummer4_mummer and mattjj_pyhsmm).
+RecentThemes;95.0;100.0;NA;NA;1;1;NA;One disagreement on theme ranking (Other vs Documentation updates). Merge and config commits are hard to classify.
